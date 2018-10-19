@@ -1972,6 +1972,7 @@
 - [Kenneth Bruce](https://github.com/kpengwin)
 - [brunneis](https://github.com/brunneis)
 - [Lubits](https://github.com/lubits)
+Dan Haske
 - [Jeremy Brun](https://github.com/jeremytbrun)
 - [Allan Guy](https://github.com/alguy)
 - [James Rice](https://github.com/jamesrice96)
